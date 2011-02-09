@@ -1,0 +1,6 @@
+Tag: hello
+Comment: a popular set of "hello"
+
+1. Hello. Hi. How are you?
+2. Good morning. Good afternoon. Good evening.
+3. Goodbye. See you.
